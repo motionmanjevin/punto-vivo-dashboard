@@ -1,0 +1,10 @@
+{
+  "description": "Streamline UI design collaboration for GitHub projects by enabling seamless integration and real-time updates to enhance development workflows.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
